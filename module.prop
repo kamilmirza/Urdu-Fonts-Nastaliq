@@ -1,0 +1,7 @@
+id=urdu-MehrNastaliq
+name=Urdu Font - Mehr Nastaliq
+version=v1
+versionCode=1
+author=kamilmirza
+description=use Mehr Nastaliq as default font for Urdu
+minMagisk=17000
