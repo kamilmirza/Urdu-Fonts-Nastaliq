@@ -43,9 +43,7 @@ print_modname() {
   ui_print "*******************************"
   ui_print "   Urdu Font - Mehr Nastaliq   "
   ui_print "                               "
-#  ui_print "       Font by Google          "
   ui_print "     Packed by kamilmirza      "
-#  ui_print "                               "
   ui_print "*******************************"
 }
 
