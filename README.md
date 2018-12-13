@@ -22,7 +22,8 @@ Mehr Nastaliq is especially developed according to the needs of modern web publi
 * Works on Miscrosoft Word and Google Docs **(use any other font except Arial)**
 
 ## Compatibility
-* Works on AOSP Android 9 and TouchWiz ROMs
+* use Gboard 
+* works on AOSP Android 9 and TouchWiz ROMs
 
 ## Notes
 * This mod replaces Arabic font
