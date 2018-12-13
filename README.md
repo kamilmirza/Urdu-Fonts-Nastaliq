@@ -22,8 +22,8 @@ Mehr Nastaliq is especially developed according to the needs of modern web publi
 * Works on Miscrosoft Word and Google Docs **(use any other font except Arial)**
 
 ## Compatibility
-* use Gboard 
-* works on AOSP Android 9 and TouchWiz ROMs
+* works fine along English 
+* works on AOSP Android 9 and TouchWiz
 
 ## Notes
 * This mod replaces Arabic font
@@ -38,5 +38,5 @@ Copyright (c) by Center for Speech and Language Technologies (CSaLT), Informatio
 * [GitHub](https://github.com/kamilmirza/Urdu-MehrNastaliq-font)
 
 ## Links
-* [XDA Thread]()
+* [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-urdu-font-mehr-nastaliq-t3878830)
 * [CSaLT Mehr Nastaliq Urdu Font](http://csalt.itu.edu.pk/urdufont/)
