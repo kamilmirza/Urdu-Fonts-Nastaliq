@@ -18,7 +18,7 @@ Mehr Nastaliq is especially developed according to the needs of modern web publi
 * Approximately 470 glyphs
 
 ## Changelog
-### v1 - 2018/12/13
+### v1 - 2018/12/14
 * Initial release
 * Works on Miscrosoft Word and Google Docs **(use any other font except Arial)**
 
@@ -35,7 +35,7 @@ Mehr Nastaliq is especially developed according to the needs of modern web publi
 Copyright (c) by Center for Speech and Language Technologies (CSaLT), Information Technology University of the Punjab, Lahore, Pakistan. Licensed under the Creative Commons License (CC BY-SA 4.0).
 
 ## Source Code
-* [GitHub](https://github.com/Magisk-Modules-Repo/Urdu-MehrNastaliq-font)
+* [GitHub](https://github.com/kamilmirza/Urdu-MehrNastaliq-font)
 
 ## Links
 * [XDA Thread]()
