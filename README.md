@@ -11,7 +11,6 @@ Mehr Nastaliq is especially developed according to the needs of modern web publi
 
 ## Features
 * Faster rendering speed as compared to other Nastaliq fonts
-* Best look according to National Calligraphic Standards
 * Open Type, character based, Lahori Nastaliq Font
 * Aaraab and marks support
 * Reduced line height
