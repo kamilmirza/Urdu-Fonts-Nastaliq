@@ -19,11 +19,11 @@ Mehr Nastaliq is especially developed according to the needs of modern web publi
 ## Changelog
 ### v1 - 2018/12/14
 * Initial release
-* Works on Miscrosoft Word and Google Docs **(use any other font except Arial)**
+* Works on Microsoft Word and Google Docs **(use any other font except Arial)**
 
 ## Compatibility
 * works fine along English 
-* works on AOSP Android 9 and TouchWiz
+* works on AOSP/Custom Android 9
 
 ## Notes
 * This mod replaces Arabic font
