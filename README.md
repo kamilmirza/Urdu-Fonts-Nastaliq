@@ -17,14 +17,15 @@ Mehr Nastaliq is especially developed according to the needs of modern web publi
 * Approximately 470 glyphs
 
 ## Changelog
+### v2 - 2019/05/26
+* Support for Samsung OneUI devices
 ### v1 - 2018/12/14
 * Initial release
-* Works on Microsoft Word and Google Docs **(use any other font except Arial)**
 
 ## Compatibility
+* works on AOSP/Custom and Samsung OneUI - Android 9
 * works fine along English 
-* works on AOSP/Custom Android 9
-
+* Works on Microsoft Word and Google Docs **(use any other font except Arial)**
 ## Notes
 * This mod replaces Arabic font
 
